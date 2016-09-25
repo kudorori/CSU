@@ -1,3 +1,7 @@
 ﻿安安你好
 
+<<<<<<< HEAD
 master新增的內容
+=======
+從NEW新增的訊息
+>>>>>>> refs/heads/new
